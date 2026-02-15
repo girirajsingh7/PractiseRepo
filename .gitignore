@@ -1,0 +1,99 @@
+############################
+# Build results
+############################
+bin/
+obj/
+Debug/
+Release/
+out/
+
+############################
+# Visual Studio files
+############################
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+############################
+# Rider
+############################
+.idea/
+*.sln.iml
+
+############################
+# VS Code
+############################
+.vscode/
+
+############################
+# Logs
+############################
+*.log
+
+############################
+# NuGet
+############################
+*.nupkg
+*.snupkg
+packages/
+.nuget/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+############################
+# Publish output
+############################
+publish/
+wwwroot/dist/
+
+############################
+# Resharper
+############################
+_ReSharper*/
+*.DotSettings.user
+
+############################
+# Test Results
+############################
+TestResults/
+*.trx
+
+############################
+# Azure
+############################
+*.azurePubxml
+*.publishsettings
+
+############################
+# DotCover
+############################
+*.dotCover
+
+############################
+# Coverlet
+############################
+coverage*
+*.coverage
+*.coveragexml
+
+############################
+# Mac specific
+############################
+.DS_Store
+
+############################
+# Windows specific
+############################
+Thumbs.db
+Desktop.ini
+
+############################
+# Secrets (IMPORTANT)
+############################
+appsettings.Development.json
+secrets.json
+.env
+.env.*
