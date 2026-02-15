@@ -1,0 +1,242 @@
+[
+  {
+    "id": 41,
+    "city": "Seattle",
+    "name": "Cafe Juanita",
+    "estimated_cost": 160
+  },
+  {
+    "id": 42,
+    "city": "Seattle",
+    "name": "Cafe Munir",
+    "estimated_cost": 160
+  },
+  {
+    "id": 43,
+    "city": "Seattle",
+    "name": "Flechazo",
+    "estimated_cost": 140
+  },
+  {
+    "id": 44,
+    "city": "Seattle",
+    "name": "Vanilla Sky",
+    "estimated_cost": 120
+  },
+  {
+    "id": 45,
+    "city": "Seattle",
+    "name": "The Shambles",
+    "estimated_cost": 110
+  },
+  {
+    "id": 46,
+    "city": "Seattle",
+    "name": "Stories",
+    "estimated_cost": 150
+  },
+  {
+    "id": 47,
+    "city": "Seattle",
+    "name": "Big Pitcher",
+    "estimated_cost": 180
+  },
+  {
+    "id": 48,
+    "city": "Seattle",
+    "name": "The Black Pearl",
+    "estimated_cost": 150
+  },
+  {
+    "id": 49,
+    "city": "Seattle",
+    "name": "Truffles",
+    "estimated_cost": 90
+  },
+  {
+    "id": 410,
+    "city": "Seattle",
+    "name": "Biergarten",
+    "estimated_cost": 240
+  },
+  {
+    "id": 411,
+    "city": "Seattle",
+    "name": "TBC Sky Lounge",
+    "estimated_cost": 10
+  },
+  {
+    "id": 412,
+    "city": "Seattle",
+    "name": "The Pump House",
+    "estimated_cost": 150
+  },
+  {
+    "id": 413,
+    "city": "Seattle",
+    "name": "JuneBaby",
+    "estimated_cost": 80
+  },
+  {
+    "id": 414,
+    "city": "Seattle",
+    "name": "Brew and Barbeque - A Microbrewery Pub",
+    "estimated_cost": 140
+  },
+  {
+    "id": 415,
+    "city": "Seattle",
+    "name": "Simon Says Brew Works",
+    "estimated_cost": 140
+  },
+  {
+    "id": 416,
+    "city": "Seattle",
+    "name": "Communiti",
+    "estimated_cost": 150
+  },
+  {
+    "id": 417,
+    "city": "Seattle",
+    "name": "Asia Kitchen By Mainland China",
+    "estimated_cost": 150
+  },
+  {
+    "id": 418,
+    "city": "Seattle",
+    "name": "Addo",
+    "estimated_cost": 140
+  },
+  {
+    "id": 419,
+    "city": "Seattle",
+    "name": "The Pallet",
+    "estimated_cost": 160
+  },
+  {
+    "id": 420,
+    "city": "Seattle",
+    "name": "Hammered",
+    "estimated_cost": 130
+  },
+  {
+    "id": 421,
+    "city": "Seattle",
+    "name": "Sidewalk - The Garden Bar",
+    "estimated_cost": 130
+  },
+  {
+    "id": 422,
+    "city": "Seattle",
+    "name": "Brooks and Bonds Brewery",
+    "estimated_cost": 160
+  },
+  {
+    "id": 423,
+    "city": "Seattle",
+    "name": "Toit",
+    "estimated_cost": 150
+  },
+  {
+    "id": 424,
+    "city": "Seattle",
+    "name": "AB\u0027s - Absolute Barbecues",
+    "estimated_cost": 160
+  },
+  {
+    "id": 425,
+    "city": "Seattle",
+    "name": "Frelard Tamales",
+    "estimated_cost": 150
+  },
+  {
+    "id": 426,
+    "city": "Seattle",
+    "name": "Xi\u0027an Noodles",
+    "estimated_cost": 140
+  },
+  {
+    "id": 427,
+    "city": "Seattle",
+    "name": "Levitate Brewery and Kitchen",
+    "estimated_cost": 150
+  },
+  {
+    "id": 428,
+    "city": "Seattle",
+    "name": "Baar Union",
+    "estimated_cost": 850
+  },
+  {
+    "id": 429,
+    "city": "Seattle",
+    "name": "La Carta de Oaxaca",
+    "estimated_cost": 240
+  },
+  {
+    "id": 430,
+    "city": "Seattle",
+    "name": "XOOX Brewmill",
+    "estimated_cost": 200
+  },
+  {
+    "id": 431,
+    "city": "Seattle",
+    "name": "The Globe Grub",
+    "estimated_cost": 130
+  },
+  {
+    "id": 432,
+    "city": "Seattle",
+    "name": "The Bier Library",
+    "estimated_cost": 200
+  },
+  {
+    "id": 433,
+    "city": "Seattle",
+    "name": "Vapour Brewpub and Diner",
+    "estimated_cost": 140
+  },
+  {
+    "id": 434,
+    "city": "Seattle",
+    "name": "AB\u0027s - Absolute Barbecues",
+    "estimated_cost": 160
+  },
+  {
+    "id": 435,
+    "city": "Seattle",
+    "name": "Off The Rez Cafe",
+    "estimated_cost": 140
+  },
+  {
+    "id": 436,
+    "city": "Seattle",
+    "name": "Jetlag",
+    "estimated_cost": 1650
+  },
+  {
+    "id": 437,
+    "city": "Seattle",
+    "name": "Barbeque Nation",
+    "estimated_cost": 160
+  },
+  {
+    "id": 438,
+    "city": "Seattle",
+    "name": "The Boozy Griffin",
+    "estimated_cost": 180
+  },
+  {
+    "id": 439,
+    "city": "Seattle",
+    "name": "The Reservoire",
+    "estimated_cost": 130
+  },
+  {
+    "id": 440,
+    "city": "Seattle",
+    "name": "The Big Barbeque",
+    "estimated_cost": 150
+  }
+]
